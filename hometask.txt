@@ -1,2 +1,11 @@
 Получившийся файл master и удалённый файл demo теперь стали идентичными.
 
+комиты:
+Merge branch 'buttons' into demo
+fix readme
+dots
+README added
+Merge branch 'boots' into release
+boots
+heat added
+init
